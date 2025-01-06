@@ -11,7 +11,7 @@ export default function Desk(props) {
       {/* Light Source */}
       <pointLight
         position={[0, 1.2, 0]}
-        intensity={1}
+        intensity={0.1}
         color="#ebbf9d"
         angle={0.1}
         penumbra={-0.1}

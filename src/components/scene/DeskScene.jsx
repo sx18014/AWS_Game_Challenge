@@ -23,15 +23,15 @@ export default function DeskScene() {
       <NightLighting />
       <Ground />
       <FogEffect />
-      <Pen position={[0.3, -0.28, 4.3]} />
+      <Pen position={[0.2, -0.23, 4.55]} />
       <Desk position={[0, -1.1, 4.3]} />
-      <Computer position={[0, -0.55, 5.2]} />
-      <Lamp position={[0.5, -0.25, 4.2]} />
+      <Lamp position={[0.5, -0.26, 4.2]} />
       <Books position={[-0.35, -0.25, 4.2]} />
+      <Paper position={[0, -0.26, 4.4]} />
       {/*
       <Office position={[0, -1, 5]} />
       <Desk position={[0, -0.7, 4.2]} />
-      
+      <Computer position={[0, -0.55, 5.2]} />
       <Paper position={[0.1, -0.4, 4.3]} />
       <Pen position={[-0.2, -0.4, 4.2]} />
       */}
